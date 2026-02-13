@@ -26,3 +26,6 @@ IDK, mainly because I wanted to learn some of the **cool** features that are in 
 
 ### Side Note
 I spent 20 minutes trying to push this repo just to find out that my SSH key randomly got disabled on my mac, idk how or why it happened but it did.
+
+### Credit
+I got 99 of the 100 lines of quotes.txt from Rob McGuire or robatron on GitHub.
