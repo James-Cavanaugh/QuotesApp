@@ -19,7 +19,10 @@ def recursive_timer(self, ms=30000):  # why must i do this to myself
 ```
 
 ### App GUI
-Gonna have to implement this outside of my code editor :(
+<img width="498" height="245" alt="Screenshot 2026-02-13 at 1 11 21 PM" src="https://github.com/user-attachments/assets/bb2c0e07-da11-461f-91a7-0bc7a3c12de6" />
 
 ### Why I made this
 IDK, mainly because I wanted to learn some of the **cool** features that are in a README file.
+
+### Side Note
+I spent 20 minutes trying to push this repo just to find out that my SSH key randomly got disabled on my mac, idk how or why it happened but it did.
